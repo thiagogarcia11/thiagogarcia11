@@ -27,12 +27,6 @@ Estudiante de **Analista en Tecnologías de la Información** en Universidad ORT
 
 ---
 
-## 📊 GitHub Stats
-
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagogarcia11&show_icons=true&theme=default&hide_border=true)
-
----
-
 ## 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagogarciadarosa/)
